@@ -1,6 +1,7 @@
 🧩 UsabilityHub Clone – Responsive Landing Page
 
 This is a frontend clone of the UsabilityHub website built using HTML5, CSS3, and Font Awesome. It replicates the core structure and design of the original UsabilityHub homepage, including a responsive layout, navigation bar, feature sections, call-to-action, and footer.
+
 🔧 Technologies Used
 
     HTML5
